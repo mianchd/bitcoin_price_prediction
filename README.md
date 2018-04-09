@@ -3,4 +3,8 @@
 
 * Features used for training the model
   * Volume
-  * Google Trend Searches
+  * Google Trend Searches for the keyword "Bitocoin"
+  
+# Future Improvements
+
+* Implementing hyper-parameter tuning with Grid Search
